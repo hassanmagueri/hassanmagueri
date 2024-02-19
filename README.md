@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/belguabd" alt="belguabd's 42 stats" /></a>
+<center><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/emagueri" alt="emagueri's 42 stats" /></a></center>
